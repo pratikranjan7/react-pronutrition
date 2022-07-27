@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pronutrition/static/css/main.2dba29ab.css",
+    "main.js": "/react-pronutrition/static/js/main.65928719.js",
+    "static/js/787.927536cd.chunk.js": "/react-pronutrition/static/js/787.927536cd.chunk.js",
+    "index.html": "/react-pronutrition/index.html",
+    "main.2dba29ab.css.map": "/react-pronutrition/static/css/main.2dba29ab.css.map",
+    "main.65928719.js.map": "/react-pronutrition/static/js/main.65928719.js.map",
+    "787.927536cd.chunk.js.map": "/react-pronutrition/static/js/787.927536cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dba29ab.css",
+    "static/js/main.65928719.js"
+  ]
+}
